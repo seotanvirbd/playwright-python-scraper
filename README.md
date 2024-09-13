@@ -1,4 +1,5 @@
 # From Zero to Hero: Web Scraping with Playwright in Python
+## You may find the step-by-step video tutorial about this project on [▶️ YouTube](https://youtu.be/jx2Q_EpY8pA).
 
 ![Playwright Logo](https://playwright.dev/img/playwright-logo.svg)
 
